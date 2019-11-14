@@ -1,0 +1,27 @@
+main {
+  font-family: luminary; 
+  font-size: 50px;
+  text-align: left;
+  background: linear-gradient( white)
+  }
+
+
+header {
+  background: rgb(215, 207, 230);
+  background-color: rgb(11, 11, 160)
+}
+
+footer {
+  font-size: 50px;
+  text-align: left;
+  background-color: rgb(11, 11, 160)
+  }
+
+aside {
+  width:200px;
+  height:200px;
+  position:absolute;
+  left:35%;
+  top:45%;
+    
+}

@@ -1,2 +1,0 @@
-# Espanyo
-Created with CodeSandbox
